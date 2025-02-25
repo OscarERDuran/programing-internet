@@ -6,7 +6,7 @@ se eligen colores para la pagina y se personaliza para la practica
 
 ## Preview
 
-[![SB Admin 2 Preview](https://github.com/OscarERDuran/programing-internet/blob/main/startbootstrap-sb-admin-2-gh-pages/avances/Primeros-cambios.png)](https://startbootstrap.github.io/startbootstrap-sb-admin-2/)
+[![SB Admin 2 Preview]startbootstrap-sb-admin-2-gh-pages/avances/Avance-frontend.png](https://startbootstrap.github.io/startbootstrap-sb-admin-2/)
 
 **[Launch Live Preview](https://startbootstrap.github.io/startbootstrap-sb-admin-2/)**
 
