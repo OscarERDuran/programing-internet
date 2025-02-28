@@ -15,7 +15,8 @@ Validacion de contraseñas Js
 https://github.com/OscarERDuran/programing-internet/blob/main/startbootstrap-sb-admin-2-gh-pages/avances/formatojs_validacion.png
 
 Validacion hatml del formulario
-https://github.com/OscarERDuran/programing-internet/blob/main/startbootstrap-sb-admin-2-gh-pages/avances/validacionhtml.png
+[![Validacion de formulario HTML](https://github.com/OscarERDuran/programing-internet/blob/main/startbootstrap-sb-admin-2-gh-pages/avances/validacionhtml.png)](https://startbootstrap.github.io/startbootstrap-sb-admin-2/)
+
 
 [![SB Admin 2 Preview](https://github.com/OscarERDuran/programing-internet/blob/main/startbootstrap-sb-admin-2-gh-pages/avances/Avance-frontend.png)](https://startbootstrap.github.io/startbootstrap-sb-admin-2/)
 
