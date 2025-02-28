@@ -8,6 +8,16 @@ se hace validacion para registros de nuevos usuarios
 
 ## Preview
 
+Validacion con campos incompletos 
+[![Validacion de campos incompletos](https://github.com/OscarERDuran/programing-internet/blob/main/startbootstrap-sb-admin-2-gh-pages/avances/validacion.png)](https://startbootstrap.github.io/startbootstrap-sb-admin-2/)
+
+Validacion de contraseñas Js
+[![Validaciopn de contraseñas JS](https://github.com/OscarERDuran/programing-internet/blob/main/startbootstrap-sb-admin-2-gh-pages/avances/formatojs_validacion.png)]https://startbootstrap.github.io/startbootstrap-sb-admin-2/)
+
+Validacion html del formulario
+[![Validacion de formulario HTML](https://github.com/OscarERDuran/programing-internet/blob/main/startbootstrap-sb-admin-2-gh-pages/avances/validacionhtml.png)](https://startbootstrap.github.io/startbootstrap-sb-admin-2/)
+
+
 [![SB Admin 2 Preview](https://github.com/OscarERDuran/programing-internet/blob/main/startbootstrap-sb-admin-2-gh-pages/avances/Avance-frontend.png)](https://startbootstrap.github.io/startbootstrap-sb-admin-2/)
 
 **[Launch Live Preview](https://startbootstrap.github.io/startbootstrap-sb-admin-2/)**
