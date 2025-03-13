@@ -1,0 +1,106 @@
+{
+  "CATEGORIES": [
+    {
+      "id": "1",
+      "nombre": "Pilas y Cargadores",
+      "categoria": "Electrics",
+      "valor": 450
+    },
+    {
+      "id": "2",
+      "nombre": "Baterías",
+      "categoria": "Electrics",
+      "valor": 300
+    },
+    {
+      "id": "3",
+      "nombre": "Extensiones Eléctricas",
+      "categoria": "Electrics",
+      "valor": 250
+    },
+    {
+      "id": "4",
+      "nombre": "Reguladores de voltaje",
+      "categoria": "Electrics",
+      "valor": 450
+    },
+    {
+      "id": "5",
+      "nombre": "Transformadores",
+      "categoria": "Electrics",
+      "valor": 500
+    },
+    {
+      "id": "6",
+      "nombre": "Convertidores de voltaje",
+      "categoria": "Electrics",
+      "valor": 550
+    },
+    {
+      "id": "7",
+      "nombre": "Protoboards",
+      "categoria": "Electronics",
+      "valor": 350
+    },
+    {
+      "id": "8",
+      "nombre": "Placas Fenólicas",
+      "categoria": "Electronics",
+      "valor": 550
+    },
+    {
+      "id": "9",
+      "nombre": "Circuitos Integrados",
+      "categoria": "Electronics",
+      "valor": 300
+    },
+    {
+      "id": "10",
+      "nombre": "Potenciometros y Resistencias",
+      "categoria": "Electronics",
+      "valor": 250
+    },
+    {
+      "id": "11",
+      "nombre": "Capacitores",
+      "categoria": "Electronics",
+      "valor": 200
+    },
+    {
+      "id": "12",
+      "nombre": "Transistores",
+      "categoria": "Electronics",
+      "valor": 250
+    },
+    {
+      "id": "13",
+      "nombre": "Multímetros",
+      "categoria": "Instruments",
+      "valor": 700
+    },
+    {
+      "id": "14",
+      "nombre": "Ponchadoras",
+      "categoria": "Instruments",
+      "valor": 550
+    },
+    {
+      "id": "15",
+      "nombre": "Generadores de Tono",
+      "categoria": "Instruments",
+      "valor": 600
+    },
+    {
+      "id": "16",
+      "nombre": "Limpiadores fibra",
+      "categoria": "Instruments",
+      "valor": 500
+    },
+    {
+      "id": "17",
+      "nombre": "Caimanes Aislantes",
+      "categoria": "Instruments",
+      "valor": 400
+    }
+  ]
+}

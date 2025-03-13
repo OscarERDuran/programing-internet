@@ -1,0 +1,10 @@
+::ng-deep .mat-paginator-container{
+    display: flex;
+    align-items: center;
+    background-color: azure;
+}
+
+
+body{
+    background-color: aqua!important;
+}
