@@ -25,6 +25,23 @@ Validacion html del formulario
 
 **[Launch Live Preview](https://startbootstrap.github.io/startbootstrap-sb-admin-2/)**
 
+Creacion de aplicacipon angular
+[![Angular HTML](https://github.com/OscarERDuran/programing-internet/blob/main/startbootstrap-sb-admin-2-gh-pages/avances/categories-component.png)](https://startbootstrap.github.io/startbootstrap-sb-admin-2/)
+
+Base de datos Json
+[![Archivo Json HTML](https://github.com/OscarERDuran/programing-internet/blob/main/startbootstrap-sb-admin-2-gh-pages/avances/basedatosjson.png)](https://startbootstrap.github.io/startbootstrap-sb-admin-2/)
+
+Server Json
+[![Server Json HTML](https://github.com/OscarERDuran/programing-internet/blob/main/startbootstrap-sb-admin-2-gh-pages/avances/jsonserver.png)](https://startbootstrap.github.io/startbootstrap-sb-admin-2/)
+
+Formulario Angular
+[![Server Json HTML](https://github.com/OscarERDuran/programing-internet/blob/main/startbootstrap-sb-admin-2-gh-pages/avances/formularioangular.png)](https://startbootstrap.github.io/startbootstrap-sb-admin-2/)
+
+Edicion Formulario
+[![Server Json HTML](https://github.com/OscarERDuran/programing-internet/blob/main/startbootstrap-sb-admin-2-gh-pages/avances/edicionformulario.png)](https://startbootstrap.github.io/startbootstrap-sb-admin-2/)
+
+Cambio formulario
+[![Server Json HTML](https://github.com/OscarERDuran/programing-internet/blob/main/startbootstrap-sb-admin-2-gh-pages/avances/CambioFormulario.png)](https://startbootstrap.github.io/startbootstrap-sb-admin-2/)
 
 ## Copyright and License
 
