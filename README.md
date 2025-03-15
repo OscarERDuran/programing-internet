@@ -7,41 +7,42 @@ se eligen colores para la pagina y se personaliza para la practica
 se crea script en java para registro de nuevo usuario
 se hace validacion para registros de nuevos usuarios
 Se crea archivo js para validacion de usuario
+Se realiza frontend con angular
 
 
 ## Preview
 
 
 Validacion con campos incompletos 
-[![Validacion de campos incompletos](https://github.com/OscarERDuran/programing-internet/blob/main/startbootstrap-sb-admin-2-gh-pages/avances/validacion.png)](https://startbootstrap.github.io/startbootstrap-sb-admin-2/)
+[![Validacion de campos incompletos](https://github.com/OscarERDuran/programing-internet/blob/main/avances/validacion.png)](https://startbootstrap.github.io/startbootstrap-sb-admin-2/)
 
 Validacion de contraseñas Js
-[![Validaciopn de contraseñas JS](https://github.com/OscarERDuran/programing-internet/blob/main/startbootstrap-sb-admin-2-gh-pages/avances/formatojs_validacion.png)]https://startbootstrap.github.io/startbootstrap-sb-admin-2/)
+[![Validaciopn de contraseñas JS](https://github.com/OscarERDuran/programing-internet/blob/main/avances/formatojs_validacion.png)]https://startbootstrap.github.io/startbootstrap-sb-admin-2/)
 
 Validacion html del formulario
-[![Validacion de formulario HTML](https://github.com/OscarERDuran/programing-internet/blob/main/startbootstrap-sb-admin-2-gh-pages/avances/validacionhtml.png)](https://startbootstrap.github.io/startbootstrap-sb-admin-2/)
+[![Validacion de formulario HTML](https://github.com/OscarERDuran/programing-internet/blob/main/avances/validacionhtml.png)](https://startbootstrap.github.io/startbootstrap-sb-admin-2/)
 
-[![SB Admin 2 Preview](https://github.com/OscarERDuran/programing-internet/blob/main/startbootstrap-sb-admin-2-gh-pages/avances/Avance-frontend.png)](https://startbootstrap.github.io/startbootstrap-sb-admin-2/)
+[![SB Admin 2 Preview](https://github.com/OscarERDuran/programing-internet/blob/main/avances/Avance-frontend.png)](https://startbootstrap.github.io/startbootstrap-sb-admin-2/)
 
 **[Launch Live Preview](https://startbootstrap.github.io/startbootstrap-sb-admin-2/)**
 
 Creacion de aplicacipon angular
-[![Angular HTML](https://github.com/OscarERDuran/programing-internet/blob/main/startbootstrap-sb-admin-2-gh-pages/avances/categories-component.png)](https://startbootstrap.github.io/startbootstrap-sb-admin-2/)
+[![Angular HTML](https://github.com/OscarERDuran/programing-internet/blob/main/avances/categories-component.png)](https://startbootstrap.github.io/startbootstrap-sb-admin-2/)
 
 Base de datos Json
-[![Archivo Json HTML](https://github.com/OscarERDuran/programing-internet/blob/main/startbootstrap-sb-admin-2-gh-pages/avances/basedatosjson.png)](https://startbootstrap.github.io/startbootstrap-sb-admin-2/)
+[![Archivo Json HTML](https://github.com/OscarERDuran/programing-internet/blob/main/avances/basedatosjson.png)](https://startbootstrap.github.io/startbootstrap-sb-admin-2/)
 
 Server Json
-[![Server Json HTML](https://github.com/OscarERDuran/programing-internet/blob/main/startbootstrap-sb-admin-2-gh-pages/avances/jsonserver.png)](https://startbootstrap.github.io/startbootstrap-sb-admin-2/)
+[![Server Json HTML](https://github.com/OscarERDuran/programing-internet/blob/main/avances/jsonserver.png)](https://startbootstrap.github.io/startbootstrap-sb-admin-2/)
 
 Formulario Angular
-[![Server Json HTML](https://github.com/OscarERDuran/programing-internet/blob/main/startbootstrap-sb-admin-2-gh-pages/avances/formularioangular.png)](https://startbootstrap.github.io/startbootstrap-sb-admin-2/)
+[![Server Json HTML](https://github.com/OscarERDuran/programing-internet/blob/main/avances/formularioangular.png)](https://startbootstrap.github.io/startbootstrap-sb-admin-2/)
 
 Edicion Formulario
-[![Server Json HTML](https://github.com/OscarERDuran/programing-internet/blob/main/startbootstrap-sb-admin-2-gh-pages/avances/edicionformulario.png)](https://startbootstrap.github.io/startbootstrap-sb-admin-2/)
+[![Server Json HTML](https://github.com/OscarERDuran/programing-internet/blob/main/avances/edicionformulario.png)](https://startbootstrap.github.io/startbootstrap-sb-admin-2/)
 
 Cambio formulario
-[![Server Json HTML](https://github.com/OscarERDuran/programing-internet/blob/main/startbootstrap-sb-admin-2-gh-pages/avances/CambioFormulario.png)](https://startbootstrap.github.io/startbootstrap-sb-admin-2/)
+[![Server Json HTML](https://github.com/OscarERDuran/programing-internet/blob/main/avances/CambioFormulario.png)](https://startbootstrap.github.io/startbootstrap-sb-admin-2/)
 
 ## Copyright and License
 
