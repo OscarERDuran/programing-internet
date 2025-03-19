@@ -44,6 +44,21 @@ Edicion Formulario
 Cambio formulario
 [![Server Json HTML](https://github.com/OscarERDuran/programing-internet/blob/main/avances/CambioFormulario.png)](https://startbootstrap.github.io/startbootstrap-sb-admin-2/)
 
+Apirestful en codelgniter Modelo
+[![Server Json HTML](https://github.com/OscarERDuran/programing-internet/blob/main/avances/modelo_backend.png)](https://startbootstrap.github.io/startbootstrap-sb-admin-2/)
+
+Apirestful en codelgniter Controlador
+[![Server Json HTML](https://github.com/OscarERDuran/programing-internet/blob/main/avances/controlador_productos.png)](https://startbootstrap.github.io/startbootstrap-sb-admin-2/)
+
+Creacion de producto desde postman
+[![Server Json HTML](https://github.com/OscarERDuran/programing-internet/blob/main/avances/apirestful_post.png)](https://startbootstrap.github.io/startbootstrap-sb-admin-2/)
+
+Base de datos de los productos
+[![Server Json HTML](https://github.com/OscarERDuran/programing-internet/blob/main/avances/basededatos.png)](https://startbootstrap.github.io/startbootstrap-sb-admin-2/)
+
+Servidor local de backend codelgniter con formato Json
+[![Server Json HTML](https://github.com/OscarERDuran/programing-internet/blob/main/avances/backend_codelgniter.png)](https://startbootstrap.github.io/startbootstrap-sb-admin-2/)
+
 ## Copyright and License
 
 Copyright 2013-2021 Start Bootstrap LLC. Code released under the [MIT](https://github.com/StartBootstrap/startbootstrap-resume/blob/master/LICENSE) license.
