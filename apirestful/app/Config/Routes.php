@@ -7,4 +7,8 @@ use CodeIgniter\Router\RouteCollection;
  */
 $routes->get('/', 'Home::index');
 
-$routes->resource('productos');
+
+$routes->post('login', 'AuthController::login');
+$routes->resource('productos', ['filter' => 'jwt']); 
+$routes->resource('clientes', ['filter' => 'jwt']); 
+$routes->resource('pedidos', ['filter' => 'jwt']);  

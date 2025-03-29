@@ -1,4 +1,4 @@
-# [Start Bootstrap - SB Admin 2](https://startbootstrap.com/theme/sb-admin-2/)
+# [Start Bootstrap - Tienda Electronica](https://startbootstrap.com/theme/sb-admin-2/)
 
 [SB Admin 2](https://startbootstrap.com/theme/sb-admin-2/) is an open source admin dashboard theme for [Bootstrap](https://getbootstrap.com/) created by [Start Bootstrap](https://startbootstrap.com/).
 
@@ -8,6 +8,7 @@ se crea script en java para registro de nuevo usuario
 se hace validacion para registros de nuevos usuarios
 Se crea archivo js para validacion de usuario
 Se realiza frontend con angular
+Creacion de backend con codelgniter
 
 
 ## Preview
@@ -24,9 +25,9 @@ Validacion html del formulario
 
 [![SB Admin 2 Preview](https://github.com/OscarERDuran/programing-internet/blob/main/avances/Avance-frontend.png)](https://startbootstrap.github.io/startbootstrap-sb-admin-2/)
 
-**[Launch Live Preview](https://startbootstrap.github.io/startbootstrap-sb-admin-2/)**
 
-Creacion de aplicacipon angular
+
+Creacion de aplicacion angular
 [![Angular HTML](https://github.com/OscarERDuran/programing-internet/blob/main/avances/categories-component.png)](https://startbootstrap.github.io/startbootstrap-sb-admin-2/)
 
 Base de datos Json
