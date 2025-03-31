@@ -60,6 +60,22 @@ Base de datos de los productos
 Servidor local de backend codelgniter con formato Json
 [![Server Json HTML](https://github.com/OscarERDuran/programing-internet/blob/main/avances/backend_codelgniter.png)](https://startbootstrap.github.io/startbootstrap-sb-admin-2/)
 
+Base de datos tabla de usuarios
+[![Autenticacion](https://github.com/OscarERDuran/programing-internet/blob/main/avances/TablaUsers.png)](https://startbootstrap.github.io/startbootstrap-sb-admin-2/)
+
+Autenticacio JWT
+[![Autenticacion](https://github.com/OscarERDuran/programing-internet/blob/main/avances/JWTAuth.png)](https://startbootstrap.github.io/startbootstrap-sb-admin-2/)
+
+Modelo de usuario
+[![Autenticacion](https://github.com/OscarERDuran/programing-internet/blob/main/avances/ModelUser.png)](https://startbootstrap.github.io/startbootstrap-sb-admin-2/)
+
+Rutas 
+[![Autenticacion](https://github.com/OscarERDuran/programing-internet/blob/main/avances/routes.png)](https://startbootstrap.github.io/startbootstrap-sb-admin-2/)
+
+Generacion de token postman
+[![Autenticacion](hhttps://github.com/OscarERDuran/programing-internet/blob/main/avances/consultaTokenPostman.png)](https://startbootstrap.github.io/startbootstrap-sb-admin-2/)
+
+
 ## Copyright and License
 
 Copyright 2013-2021 Start Bootstrap LLC. Code released under the [MIT](https://github.com/StartBootstrap/startbootstrap-resume/blob/master/LICENSE) license.
