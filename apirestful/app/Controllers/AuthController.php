@@ -17,11 +17,14 @@ class AuthController extends ResourceController
         $data = $this->request->getJSON();
 
         $user = $model->where('email', $data->email)->first();
+        
 
         if (!$user || !password_verify($data->password, $user['password'])) {
             return $this->failUnauthorized('Credenciales inválidas');
+            
         }
 
+        
         $token = generate_jwt(['id' => $user['id'], 'email' => $user['email']]);
 
         return $this->respond(['token' => $token]);
