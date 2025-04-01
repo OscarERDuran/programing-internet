@@ -26,7 +26,6 @@ Validacion html del formulario
 [![SB Admin 2 Preview](https://github.com/OscarERDuran/programing-internet/blob/main/avances/Avance-frontend.png)](https://startbootstrap.github.io/startbootstrap-sb-admin-2/)
 
 
-
 Creacion de aplicacion angular
 [![Angular HTML](https://github.com/OscarERDuran/programing-internet/blob/main/avances/categories-component.png)](https://startbootstrap.github.io/startbootstrap-sb-admin-2/)
 
@@ -75,6 +74,21 @@ Rutas
 Generacion de token postman
 [![Autenticacion](https://github.com/OscarERDuran/programing-internet/blob/main/avances/consultaTokenPostman.png)](https://startbootstrap.github.io/startbootstrap-sb-admin-2/)
 
+Base de datos general
+[![ChatBot](https://github.com/OscarERDuran/programing-internet/blob/main/avances/BaseDatosGeneral.png)](https://startbootstrap.github.io/startbootstrap-sb-admin-2/)
+
+Configuracion de la ApiKey
+[![ChatBot](https://github.com/OscarERDuran/programing-internet/blob/main/avances/apiKeyConfiguracion.png)](https://startbootstrap.github.io/startbootstrap-sb-admin-2/)
+
+Funcion Busqueda
+[![ChatBot](https://github.com/OscarERDuran/programing-internet/blob/main/avances/FuncionBusqueda.png)](https://startbootstrap.github.io/startbootstrap-sb-admin-2/)
+
+Servidor backend operativo
+[![ChatBot](https://github.com/OscarERDuran/programing-internet/blob/main/avances/ServidorBackend.png)](https://startbootstrap.github.io/startbootstrap-sb-admin-2/)
+
+Chatbot operativo productos
+[![ChatBot](https://github.com/OscarERDuran/programing-internet/blob/main/avances/ChatBot_products.png)](https://startbootstrap.github.io/startbootstrap-sb-admin-2/)
+[![ChatBot](https://github.com/OscarERDuran/programing-internet/blob/main/avances/Chatbot_categorias.png)](https://startbootstrap.github.io/startbootstrap-sb-admin-2/)
 
 ## Copyright and License
 
